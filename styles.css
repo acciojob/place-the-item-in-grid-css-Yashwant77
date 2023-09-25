@@ -3,8 +3,8 @@
 	background-color:red;
 	display:grid;
 	width:400px;
-	grid-template-columns: 200px 200px;
-    grid-template-rows: repeat(2,200px);
+	grid-template-columns: 100px 100px;
+    grid-template-rows: repeat(2,100px);
 }
 .item item-1{
 	border:1px solid green;
